@@ -16,7 +16,7 @@ The robot consists of the following key components:
 
 ## Technical Details
 All project files are written in the **C#** programming language.
-
+The whole elemnts designed by me
 
 
 ARABIC
@@ -38,3 +38,4 @@ ARABIC
 
 ## التفاصيل التقنية
 جميع ملفات المشروع مكتوبة بلغة البرمجة **C#**.
+جميع عناصرالبيئة مصممة بواسطتي.
